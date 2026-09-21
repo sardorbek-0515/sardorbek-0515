@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Tursunov&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Space%20Explorer&descAlignY=60&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=JACK&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Space%20Explorer&descAlignY=60&descSize=18" alt="header" />
 </p>
 
 <h2 align="center">
@@ -11,19 +11,11 @@
 </p>
 
 ---
+## 🛠️ Spacecraft Equipment
 
-## 👨‍🚀 `ASTRONAUT_PROFILE.md`
-
-```js
-const astronaut = {
-    callSign: "Tursunov",
-    mission: "Becoming a Full-Stack Developer",
-    spacecraft: ["TypeScript", "JavaScript", "NodeJs", "React"],
-    currentOrbit: "Building Nestar, a real estate platform 🪐",
-    favoriteDestination: "Saturn 🪐",   
-    status: "Launching new features daily 🚀"
-};
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,nestjs,graphql,mongodb,git,github,vscode&theme=dark&perline=8" alt="tech stack" />
+</p>
 
 ---
 
@@ -51,12 +43,6 @@ const astronaut = {
 
 ---
 
-## 📡 `TELEMETRY.md`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sardorbek-0515&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardorbek-0515&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" alt="footer" />
