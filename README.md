@@ -11,38 +11,17 @@
 </p>
 
 ---
-## 🛠️ Spacecraft Equipment
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,nestjs,graphql,mongodb,git,github,vscode&theme=dark&perline=8" alt="tech stack" />
-</p>
+## 💻 Full-Stack Developer
 
----
-
-## 🪐 `SOLAR_SYSTEM_STACK.md`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-☀️_THE_SUN-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-🪐_SATURN-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/REACT-🌍_EARTH-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/NEXT.JS-🌙_MOON-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/NODE.JS-🌿_MARS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NESTJS-🔥_VENUS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/GRAPHQL-💜_NEPTUNE-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/MONGODB-🍃_JUPITER-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GIT-☄️_COMET-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| | |
+| :-- | :-- |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs&theme=dark" alt="frontend" /> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&theme=dark" alt="backend" /> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="database" /> |
+| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" /> |
 
 ---
-
-## 🛰️ `MISSION_LOG.md`
-
-| Mission | Spacecraft | Status |
-| :------ | :--------- | :----- |
-| 🪐 **Nestar** | Next.js · NestJS · GraphQL · MongoDB | 🚀 In orbit (building) |
-
----
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" alt="footer" />
