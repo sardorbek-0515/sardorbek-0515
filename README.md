@@ -20,7 +20,7 @@ const astronaut = {
     mission: "Becoming a Full-Stack Developer",
     spacecraft: ["TypeScript", "JavaScript", "NodeJs", "React"],
     currentOrbit: "Building Nestar, a real estate platform 🪐",
-    favoriteDestination: "Saturn 🪐",   // o'zingizga yoqqan sayyorani yozing
+    favoriteDestination: "Saturn 🪐",   
     status: "Launching new features daily 🚀"
 };
 ```
